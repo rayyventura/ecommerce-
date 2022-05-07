@@ -3,7 +3,7 @@
   <image src="https://github.com/rodnei0/Pixels/blob/main/src/assets/pixles.gif" />
 </p>
 <p align="center">
-  Availabe at https://pixels-pi.vercel.app/
+ Usability
 </p>
 
 
